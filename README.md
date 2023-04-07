@@ -44,12 +44,16 @@ To improve my skills and create beautiful high quality interactive and useful ma
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-xhNpNJJyQhk%2FXIe4GY78RQI%2FAAAAAAAAItc%2FouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw%2Fs1600%2Flogo%252Bgit%252Bicon.png&f=1&nofb=1" alt="git" width="40" height="40"/></a>
+<a href="https://gdal.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="gdal" width="40" height="40"/></a>
+<a href="https://www.mapbox.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" alt="mapbox" width="40" height="40"/></a>
+<a href="https://www.esri.com/en-us/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4vector.com%2Fi%2Ffree-vector-esri_084838_esri.png&f=1&nofb=1" alt="esri" width="40" height="40"/></a>
  
 <strong>In progress<strong>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   
                     
 ### You can contact me
